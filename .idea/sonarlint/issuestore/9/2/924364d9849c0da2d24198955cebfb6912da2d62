@@ -1,0 +1,45 @@
+
+[	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(ê¿ã˜
+7
+java:S1170"!Make this final field static too.(ËÄäõ
+<
+java:S1170"!Make this final field static too.(ğ÷Ù¨ùÿÿÿÿ
+8
+java:S1659%""Declare "size" on a separate line.(œ€ó•
+_
+java:S3358O"DExtract this nested ternary operation into an independent statement.(ßƒÕ€üÿÿÿÿ
+_
+java:S3358O"DExtract this nested ternary operation into an independent statement.(ßƒÕ€üÿÿÿÿ
+_
+java:S3358O"DExtract this nested ternary operation into an independent statement.(ßƒÕ€üÿÿÿÿ
+m
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ßÀëÔşÿÿÿÿ
+O
+java:S1854ˆ"8Remove this useless assignment to local variable "zero".(ÜÚ±Õ
+F
+java:S1172X"+Remove this unused method parameter "args".(ßÀëÔşÿÿÿÿ
+E
+java:S1197X"*Move the array designators [] to the type.(ßÀëÔşÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Êù—
+@
+java:S1481ˆ")Remove this unused "zero" local variable.(ÜÚ±Õ
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(Ÿİú§
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(¾œÌùÿÿÿÿÿ
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(¾²™şúÿÿÿÿ
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(¶Ïµñ
+O	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ÿİú§
+F
+java:S1197‚"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+t
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÿáÔúÿÿÿÿ
+n	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(íÇ£ 
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«à
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó€æÏ
+W
+java:S4973O"<Strings and Boxed types should be compared using "equals()".(ßƒÕ€üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+h
+java:S20956"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¹Àèúÿÿÿÿ
+d
+java:S2095y"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(» ¡Ñ

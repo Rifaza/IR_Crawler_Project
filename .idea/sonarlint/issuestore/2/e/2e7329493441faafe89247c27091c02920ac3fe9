@@ -1,0 +1,18 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•Çè†
+M
+java:S1854 "7Remove this useless assignment to local variable "url".(ç›Íó
+S
+java:S1854'"8Remove this useless assignment to local variable "html".(—­¯øÿÿÿÿ
+S
+java:S1854&"8Remove this useless assignment to local variable "text".(ñæá‡ùÿÿÿÿ
+>
+java:S1481 "(Remove this unused "url" local variable.(ç›Íó
+D
+java:S1481&")Remove this unused "text" local variable.(ñæá‡ùÿÿÿÿ
+D
+java:S1481'")Remove this unused "html" local variable.(—­¯øÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‚… 
+0
+java:S1220""Move this file to a named package.

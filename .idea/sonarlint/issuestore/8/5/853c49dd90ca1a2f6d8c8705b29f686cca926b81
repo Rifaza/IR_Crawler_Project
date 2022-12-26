@@ -1,0 +1,10 @@
+
+E
+java:S1656"/Remove or correct this useless self-assignment.(Ç÷Š…
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÈÀ øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éä•åüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´º
+0
+java:S1220""Move this file to a named package.
+y
+java:S4165"cRemove this useless assignment; "token" already holds the assigned value along all execution paths.(Ç÷Š…
